@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "TalkPal PRO frontend"
+git branch -M main
+git remote add origin https://github.com/tuusuario/talkpal-frontend.git
+git push -u origin main
